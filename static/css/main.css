@@ -1,3 +1,149 @@
+/* Локальные шрифты (без Google Fonts, 152-ФЗ) */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/static/fonts/montserrat-cyrillic-400-normal.woff2') format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/static/fonts/montserrat-latin-400-normal.woff2') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url('/static/fonts/montserrat-cyrillic-500-normal.woff2') format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url('/static/fonts/montserrat-latin-500-normal.woff2') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('/static/fonts/montserrat-cyrillic-600-normal.woff2') format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('/static/fonts/montserrat-latin-600-normal.woff2') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('/static/fonts/montserrat-cyrillic-700-normal.woff2') format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('/static/fonts/montserrat-latin-700-normal.woff2') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url('/static/fonts/montserrat-cyrillic-800-normal.woff2') format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url('/static/fonts/montserrat-latin-800-normal.woff2') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/static/fonts/oswald-cyrillic-400-normal.woff2') format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+@font-face {
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/static/fonts/oswald-latin-400-normal.woff2') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url('/static/fonts/oswald-cyrillic-500-normal.woff2') format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+@font-face {
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url('/static/fonts/oswald-latin-500-normal.woff2') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('/static/fonts/oswald-cyrillic-600-normal.woff2') format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+@font-face {
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('/static/fonts/oswald-latin-600-normal.woff2') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('/static/fonts/oswald-cyrillic-700-normal.woff2') format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+@font-face {
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('/static/fonts/oswald-latin-700-normal.woff2') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
 :root {
   /* Дружелюбная палитра: синий + бирюзовый */
   --red: #0D6EFD;           /* основной акцент — синий (бывший красный) */
@@ -73,11 +219,15 @@ ul, ol { padding-left: 1.25rem; }
 .logo { display: flex; align-items: center; gap: 10px; text-decoration: none; flex-shrink: 0; }
 .logo-text { display: flex; flex-direction: column; }
 .logo-name { font-family: var(--font-head); font-weight: 700; font-size: 1.15rem; color: var(--dark); line-height: 1.2; }
+.logo-name-mobile { display: none; }
 .logo-region { font-size: 0.7rem; color: var(--gray); letter-spacing: 0.5px; }
 .main-nav { flex: 1; }
 .main-nav ul { display: flex; align-items: center; gap: 4px; list-style: none; padding: 0; }
 .main-nav > ul > li { position: relative; }
-.main-nav a { display: flex; align-items: center; gap: 4px; padding: 8px 14px; font-weight: 600; font-size: 0.88rem; color: var(--text); border-radius: var(--radius); transition: all var(--transition); text-transform: uppercase; letter-spacing: 0.3px; }
+.main-nav a { display: flex; align-items: center; gap: 4px; padding: 8px 14px; font-weight: 600; font-size: 0.88rem; color: var(--text); border-radius: var(--radius); transition: all var(--transition); text-transform: uppercase; letter-spacing: 0.3px; white-space: nowrap; }
+/* невидимый «мостик» над зазором, чтобы дропдаун не закрывался при движении курсора */
+.has-dropdown::after { content: ''; position: absolute; top: 100%; left: 0; right: 0; height: 16px; display: none; }
+.has-dropdown:hover::after { display: block; }
 .main-nav a:hover, .main-nav a.active { color: var(--red); background: rgba(13,110,253,0.06); }
 .dropdown { display: none !important; position: absolute; top: calc(100% + 12px); left: 0; background: var(--white); border-radius: var(--radius); box-shadow: 0 16px 48px rgba(0,0,0,0.18); border: 1px solid var(--border); border-top: 3px solid var(--red); min-width: 220px; padding: 6px 0; z-index: 100; list-style: none; animation: dropdownFade 0.18s ease; }
 @keyframes dropdownFade { from { opacity: 0; transform: translateY(-6px); } to { opacity: 1; transform: translateY(0); } }
@@ -151,6 +301,10 @@ section { padding: 72px 0; }
 .reviews-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px; }
 .review-card { background: var(--white); border-radius: var(--radius-lg); padding: 28px; box-shadow: var(--shadow); display: flex; flex-direction: column; gap: 12px; }
 .review-stars { color: #f59e0b; font-size: 1.2rem; letter-spacing: 2px; }
+.review-stars .star { color: #d1d5db; }
+.review-stars .star.on { color: #f59e0b; }
+.reviews-aggregate { color: var(--gray); font-size: 0.95rem; margin-top: 8px; }
+.reviews-aggregate strong { color: #f59e0b; font-size: 1.1rem; }
 .review-card p { color: var(--text-light); font-size: 0.9rem; font-style: italic; flex: 1; }
 .review-author { font-size: 0.85rem; }
 .review-author strong { color: var(--dark); }
@@ -322,11 +476,12 @@ a.contact-value:hover { color: var(--red); }
   .logo { gap: 8px; min-width: 0; flex: 1 1 auto; overflow: hidden; }
   .logo-icon img { width: 32px !important; height: 32px !important; }
   .logo-text { min-width: 0; overflow: hidden; }
-  .logo-name { font-size: 0.78rem; line-height: 1.15; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .logo-name { display: none; }
+  .logo-name-mobile { display: block; font-family: var(--font-head); font-weight: 700; font-size: 0.86rem; line-height: 1.12; color: var(--dark); white-space: normal; }
   .logo-region { display: none; }
   .header-mobile-msgs { flex-shrink: 0; gap: 5px; margin-left: 0; }
-  .hmm-btn { width: 34px; height: 34px; }
-  .hmm-btn svg { width: 17px; height: 17px; }
+  .hmm-btn { width: 32px; height: 32px; }
+  .hmm-btn svg { width: 16px; height: 16px; }
   .burger { flex-shrink: 0; }
   .main-nav { display: none; position: fixed; inset: 0; top: 70px; background: var(--white); padding: 20px; z-index: 999; overflow-y: auto; }
   .main-nav.open { display: block; }
@@ -361,11 +516,17 @@ a.contact-value:hover { color: var(--red); }
   .hero-actions { flex-direction: column; }
   .cities-grid { grid-template-columns: 1fr 1fr; }
   .about-numbers { grid-template-columns: 1fr 1fr; }
-  .logo-name { font-size: 0.7rem; }
+  .logo-name-mobile { font-size: 0.8rem; }
   .logo-icon img { width: 28px !important; height: 28px !important; }
-  .hmm-btn { width: 30px; height: 30px; }
+  .hmm-btn { width: 29px; height: 29px; }
   .hmm-btn svg { width: 15px; height: 15px; }
+  .header-mobile-msgs { gap: 4px; }
   .header-main-inner { gap: 6px; }
+}
+@media (max-width: 400px) {
+  .logo-name-mobile { font-size: 0.76rem; }
+  .hmm-btn { width: 27px; height: 27px; }
+  .hmm-btn svg { width: 14px; height: 14px; }
 }
 
 /* ========== ЮРИДИЧЕСКИЕ СТРАНИЦЫ ========== */
@@ -391,7 +552,11 @@ a.contact-value:hover { color: var(--red); }
 .cookie-banner-text a:hover { color: #fff; }
 .cookie-banner button { flex-shrink: 0; background: var(--red); color: #fff; border: none; padding: 10px 20px; border-radius: var(--radius); font-weight: 600; font-size: 0.88rem; cursor: pointer; transition: all var(--transition); }
 .cookie-banner button:hover { background: #c72909; }
-@media (max-width: 560px) { .cookie-banner { flex-direction: column; align-items: stretch; text-align: center; left: 10px; right: 10px; bottom: 10px; } }
+.cookie-banner-buttons { display: flex; gap: 8px; flex-shrink: 0; }
+#cookie-decline { background: transparent; border: 1px solid rgba(255,255,255,0.35); color: #fff; }
+#cookie-decline:hover { background: rgba(255,255,255,0.12); }
+.footer-requisites { font-size: 0.82rem; opacity: 0.7; margin: 4px 0; }
+@media (max-width: 560px) { .cookie-banner { flex-direction: column; align-items: stretch; text-align: center; left: 10px; right: 10px; bottom: 10px; } .cookie-banner-buttons { flex-direction: column; } }
 
 /* ========== ЧЕКБОКС СОГЛАСИЯ ========== */
 .form-consent { display: flex; align-items: flex-start; gap: 10px; margin: 14px 0 10px; font-size: 0.85rem; line-height: 1.45; color: var(--text-light); }
@@ -427,6 +592,19 @@ a.contact-value:hover { color: var(--red); }
   .header-mobile-msgs { display: inline-flex; }
 }
 @media (max-width: 380px) {
-  .hmm-btn { width: 34px; height: 34px; }
-  .hmm-btn svg { width: 17px; height: 17px; }
+  .hmm-btn { width: 30px; height: 30px; }
+  .hmm-btn svg { width: 15px; height: 15px; }
 }
+
+/* ===== Reviews section ===== */
+.reviews-section { padding: 64px 0; background: var(--bg-alt, #f6f8fb); }
+.reviews-head { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 12px; margin-bottom: 28px; }
+.reviews-head h2 { margin: 0; }
+.reviews-rating { display: flex; align-items: center; gap: 8px; font-size: 0.98rem; }
+.reviews-rating .reviews-stars { color: #f5a623; letter-spacing: 2px; font-size: 1.1rem; }
+.reviews-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(290px, 1fr)); gap: 18px; }
+.review-card { background: #fff; border: 1px solid rgba(0,0,0,0.07); border-radius: var(--radius-lg, 14px); padding: 22px; box-shadow: 0 4px 18px rgba(0,0,0,0.04); display: flex; flex-direction: column; gap: 12px; }
+.review-stars { color: #f5a623; letter-spacing: 2px; font-size: 1.05rem; }
+.review-text { margin: 0; line-height: 1.6; color: #333; }
+.review-author { font-weight: 600; color: var(--dark, #1a1a2e); font-size: 0.92rem; }
+@media (max-width: 560px) { .reviews-section { padding: 44px 0; } .reviews-grid { grid-template-columns: 1fr; } }
